@@ -5,6 +5,8 @@ The repository contains the supplementary information for the research project "
 Respiratory syncytial virus remains a major cause of severe respiratory disease in infants, the elderly, and immunocompromised populations worldwide. Despite recent advances in monoclonal antibodies and vaccines, the virus continues to evolve, posing challenges for long-term control. The RSV fusion (F) protein is central to viral entry and the primary target for neutralizing antibodies, yet little is known about its global evolutionary dynamics and drug-resistance associated changes. By integrating large-scale surveillance data with clinical isolates, our study identifies critical mutations, glycosylation patterns, and evolutionary pressures that shape the diversity of the F protein. These findings provide mechanistic insight into how RSV adapts under immune and therapeutic pressure, highlighting both vulnerabilities and conserved features of the F protein. Continuous monitoring of these evolutionary patterns will be crucial for maintaining vaccine effectiveness and informing the development of next-generation therapeutics to reduce RSV-associated morbidity and mortality.
 
 ***Supplementary***
+
+
 <img width="548" height="462" alt="3A" src="https://github.com/user-attachments/assets/677b6201-80ab-4f93-b26a-a228e1ab480f" />
 
 **Supp. Figure 1. Number of sequences per year**
